@@ -1,1 +1,2 @@
-# dice project. The Complete 2020 Web Development Bootcamp Udemy class.
+# Dice project. 
+The Complete 2020 Web Development Bootcamp Udemy class.
